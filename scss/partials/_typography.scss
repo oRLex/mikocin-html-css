@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: $fontBase;
+}
+
+html {
+  font-size: 10px;
+  min-width: 320px;
+  line-height: 1;
+  // color: $fontColor_second;
+  // font-family: $fontColor_second;
+}
+
+.primetext {
+  // color: $prime;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h6 {
+  // font-family: $fontSecond;
+  // color: $fontColor_prime;
+}
+
+.h1 {
+  font-size: 4rem;
+
+
+}
+
+.h2 {
+  font-size: 3rem;
+
+}
+
+.h3 {
+  font-size: 2.4rem;
+
+}
+
+.h4 {
+  font-size: 2.2rem;
+
+}
+
+.h5 {
+  font-size: 1.4rem;
+  // font-family: $fontColor_second;
+}
+
+.h6 {
+  font-size: 1.4rem;
+
+}
+
+p {
+  font-size: 1.6rem;
+}
+
+.border-bottom {
+  // border-bottom: 0.2rem $prime solid;
+  display: inline-block;
+  padding-bottom: 1.5rem;
+}

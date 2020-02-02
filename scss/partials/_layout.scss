@@ -1,0 +1,15 @@
+// ---------------------------
+// Layouts and containers
+// ---------------------------
+
+
+
+.section {
+  padding-top: $containerVerIndent;
+  padding-bottom: $containerVerIndent;
+
+  @media screen and (max-width: 1225px) {
+    padding-top: $containerVerIndentMobile;
+    padding-bottom: $containerVerIndentMobile;
+  }
+}
