@@ -1,6 +1,6 @@
 # Project Mikocin
 
-Landing page about pill Mikocin
+Landing page about medicine Mikocin
 
 ## Getting Started
 
