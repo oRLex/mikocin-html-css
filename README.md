@@ -13,7 +13,7 @@ Say what the step will be
 ```
 1. Install Node.js (and git-bash for windows) to your computer;
 2. Run IDE or code-editor;
-3. Open terminal and install GULP version 3.9.1 globaly "npm i -g"
+3. On root folder of project open terminal and install GULP version 3.9.1 globaly "npm i -g"
 3. Instal all dependencies using Terminal command: "npm i"
 4. Run dev-mode using this script "gulp"
 5. Run production-mode using "gulp prod"
